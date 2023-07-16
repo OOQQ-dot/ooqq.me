@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>OOQQ Rants</title>
+<title>necronomimicon Rants</title>
 <updated>2020-08-09T23:16:22-04:00</updated>
 <link rel="self" type="application/atom+xml" href="https://ooqq.me/blog/atom.xml"/>
 <link rel="alternate" type="text/html" href="https://ooqq.me/blog"/>
 <id>https://ooqq.me/blog</id>
 
 <entry>
-<author><name>OOQQ</name></author>
+<author><name>necronomimicon</name></author>
 <title>Small update to site</title>
 <updated>2020-08-08T20:00:00-04:00</updated>
 <link rel="alternate" type="text/html" href="https://wozniak.ca/blog/2020/08/09/1/index.html"/>
