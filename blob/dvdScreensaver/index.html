@@ -67,18 +67,18 @@
 
 		function clearFrame() {
 			context.fillStyle = "black";
-			context.fillRect(0, 0, innerWidth, innerHeight);
+			context.fillRect(0, 0, canvas.width, canvas.height);
 		}
 
 		function dvdUpdate() {
 			if (positionX + sizeX >= canvas.width || positionX <= 0) {
 				deltaX = -deltaX;
-				currentColor = randomColor();
 				sound.play();
+				currentColor = randomColor();
 			} else if (positionY + sizeY >= canvas.height || positionY <= 0) {
 				deltaY = -deltaY;
-				currentColor = randomColor();
 				sound.play();
+				currentColor = randomColor();
 			}
 
 			positionX += deltaX;
