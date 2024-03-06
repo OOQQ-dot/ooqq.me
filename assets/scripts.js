@@ -187,6 +187,6 @@ function humaneDate(date_str) { //js time to human readable form https://github.
 
 function emailCheck() {
     if (document.querySelector('.cntct')) { //email inserter, lightly obfuscated, where available
-        document.querySelector('.cntct').innerHTML = atob('PGEgaHJlZj0ibWFpbHRvOm5lY3Jvbm9taW1pY29uQGdtYWlsLmNvbSIgdGl0bGU9Ikl0IGp1c3Qgd29ya3MiPm5lY3Jvbm9taW1pY29uQGdtYWlsLmNvbTwvYT4=');
+        document.querySelector('.cntct').innerHTML = atob('PGEgaHJlZj0ibWFpbHRvOm5lY3Jvbm9taW1pY29uQGdtYWlsLmNvbSIgdGl0bGU9IlNheSBoaSDwn5GLIj5uZWNyb25vbWltaWNvbkBnbWFpbC5jb208L2E+');
     }
 }
