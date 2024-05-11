@@ -29,7 +29,7 @@
 			<a href="../"><img class="logo" src="../logo/gg_e.svg" /></a>
 		</header>
 		<main>
-			<img class="complete" src="everdrive.gif" data-date="2023-06-06" data-price="40" />
+			<img class="complete" src="everdrive.jpg" data-date="2023-06-06" data-price="40" />
 			<img class="complete" src="4in1.gif" data-date="2023-09-09" data-price="4" />
 			<img class="wanted" src="aerialAssault.gif" data-date="" data-price="" />
 			<img class="wanted" src="aladdin.gif" data-date="" data-price="" />
