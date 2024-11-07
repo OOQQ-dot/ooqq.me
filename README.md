@@ -1,4 +1,4 @@
-# necronomimi.com
+# ooqq.me
 all images are © do as you please with the code
 
-###### made by [necronomimicon](https://github.com/necronomimicon/)
+###### made by [ooqq](https://github.com/ooqqok/)
